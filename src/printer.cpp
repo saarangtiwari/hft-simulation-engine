@@ -3,5 +3,5 @@
 
 void print(std::string message)
 {
-    std::printf("%s", message.c_str());
+    std::printf("%s\n", message.c_str());
 }
