@@ -2,8 +2,6 @@
 
 Mini high-frequency trading system that simulates a real exchange connection, processes live-like market data, maintains an order book, and sends/receives orders — all while optimizing for speed, concurrency, and precision
 
-The idea is to **learn by building**, layer by layer. Each phase introduces new concepts while producing something functional and testable.
-
 ---
 
 # 🚀 Development Roadmap for HFT Simulation Project

@@ -1,8 +1,6 @@
-#include <iostream>
-#include "./printer.h"
+#include "tcp_server/tcp_server.h"
 
 int main()
 {
-    print("TCP Server");
-    // std::cout << "TCP Server" << std::endl;
+    initServer();
 }
